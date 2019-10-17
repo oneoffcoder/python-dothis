@@ -76,6 +76,8 @@ Table of Contents
    looping-collection
    looping-collection-indices
    looping-two-collections
+   list-generator
+   list-filtering
    dictionary-defaultdict
    dictionary-get
    dictionary-updating
@@ -84,11 +86,15 @@ Table of Contents
    tuple-ignoring
    tuple-namedtuple
    string-concatenation
+   function-clarification
+   function-lambda
+   function-generator
    data-map-filter-reduce
    data-flattening
    data-caching
    file-reading
    file-delete
+   misc-simultaneous-state-updates
 
 
 
