@@ -68,8 +68,14 @@ Table of Contents
 =================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :numbered:
+
+   looping-range-numbers
+   looping-backward
+   looping-collection
+   looping-collection-indices
+   looping-two-collections
 
 
 
