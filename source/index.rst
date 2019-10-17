@@ -60,15 +60,19 @@ Table of Contents
    function-lambda
    function-generator
    class-dunder
+   class-enumeration
    data-map-filter-reduce
    data-flattening
    data-caching
    file-reading
    file-delete
+   file-filtering
+   file-serde-shelve
    iter-combination
    iter-cycling
    iter-product
    misc-simultaneous-state-updates
+   misc-pandas
 
 
 
