@@ -44,4 +44,5 @@ Do this
     sport = 'tennis'
 
     # string template
-    sentence = Template('$name likes to eat $food. $name likes to play $sport.')
+    template = Template('$name likes to eat $food. $name likes to play $sport.')
+    sentence = template.substitute(name=name, food=food, sport=sport)

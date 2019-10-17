@@ -20,4 +20,6 @@ Do this
 
 .. code:: python
 
+    is_male = True
+    
     gender = 'male' if is_male else 'female'

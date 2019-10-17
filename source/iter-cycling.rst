@@ -30,4 +30,3 @@ Do this
 
     color_cycle = cycle(colors)
     color_sequence = (next(color_cycle) for _ in range(10))
-    print(list(color_sequence))
