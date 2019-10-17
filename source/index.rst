@@ -76,6 +76,19 @@ Table of Contents
    looping-collection
    looping-collection-indices
    looping-two-collections
+   dictionary-defaultdict
+   dictionary-get
+   dictionary-updating
+   dictionary-counting
+   tuple-unpacking
+   tuple-ignoring
+   tuple-namedtuple
+   string-concatenation
+   data-map-filter-reduce
+   data-flattening
+   data-caching
+   file-reading
+   file-delete
 
 
 
