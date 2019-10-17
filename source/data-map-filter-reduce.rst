@@ -1,5 +1,5 @@
 Transforming data with map, filter, reduce
---------------------------------------
+------------------------------------------
 
 Favor `map`, `filter`, and `reduce` to transform data. Your code will be more concise and better understood, as well as faster.
 

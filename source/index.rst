@@ -27,6 +27,55 @@ Preface
 
 This book shows how to write beautiful, idiomatic Python code with simple, effective examples. There are no long explanations, but the intention is to **show** and **demonstrate** preferred ways of writing code in Python. As such, the intended audience is for intermediate Python programmers looking to improve ways to write and express their code in a readable way while still preserving computational efficiency and effectiveness. 
 
+Table of Contents
+=================
+
+.. toctree::
+   :maxdepth: 1
+   :numbered:
+
+   basic-chained-comparison
+   basic-falsy-truthy
+   basic-ternary-operator
+   looping-range-numbers
+   looping-backward
+   looping-collection
+   looping-collection-indices
+   looping-two-collections
+   list-generator
+   list-filtering
+   dictionary-defaultdict
+   dictionary-get
+   dictionary-updating
+   dictionary-counting
+   dictionary-comprehension
+   set-comprehension
+   tuple-unpacking
+   tuple-ignoring
+   tuple-namedtuple
+   string-concatenation
+   string-interpolation
+   string-dry
+   function-clarification
+   function-lambda
+   function-generator
+   class-dunder
+   data-map-filter-reduce
+   data-flattening
+   data-caching
+   file-reading
+   file-delete
+   misc-simultaneous-state-updates
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
 One-Off Coder
 =============
 
@@ -62,45 +111,3 @@ One-Off Coder is an educational, service and product company. Please visit us on
 .. |LinkedIn_Link| raw:: html
 
    <a href="https://www.linkedin.com/company/one-off-coder/" target="_blank">LinkedIn</a>
-
-
-Table of Contents
-=================
-
-.. toctree::
-   :maxdepth: 1
-   :numbered:
-
-   looping-range-numbers
-   looping-backward
-   looping-collection
-   looping-collection-indices
-   looping-two-collections
-   list-generator
-   list-filtering
-   dictionary-defaultdict
-   dictionary-get
-   dictionary-updating
-   dictionary-counting
-   tuple-unpacking
-   tuple-ignoring
-   tuple-namedtuple
-   string-concatenation
-   function-clarification
-   function-lambda
-   function-generator
-   data-map-filter-reduce
-   data-flattening
-   data-caching
-   file-reading
-   file-delete
-   misc-simultaneous-state-updates
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
