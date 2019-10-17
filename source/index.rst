@@ -65,6 +65,9 @@ Table of Contents
    data-caching
    file-reading
    file-delete
+   iter-combination
+   iter-cycling
+   iter-product
    misc-simultaneous-state-updates
 
 
@@ -79,7 +82,7 @@ Indices and tables
 One-Off Coder
 =============
 
-One-Off Coder is an educational, service and product company. Please visit us online to discover how we may help you achieve life-long success in your personal coding career or with your company's market objectives.
+One-Off Coder is an educational, service and product company. Please visit us online to discover how we may help you achieve life-long success in your personal coding career or with your company's business goals and objectives.
 
 - |Website_Link|
 - |Facebook_Link|
