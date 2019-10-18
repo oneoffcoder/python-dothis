@@ -137,9 +137,12 @@ Copyright
     </a>
     <br />
     <br />
+    The full source code is available on <a href="https://github.com/oneoffcoder/python-dothis" target="_blank">GitHub</a>.
+    <br />
+    <br />
     </embed>
 
-To cite this book::
+Cite this book as follows.::
 
     @misc{oneoffcoder_python_dothis_2019, 
     title={Python: Do This, Not That!}, 
