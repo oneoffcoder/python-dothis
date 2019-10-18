@@ -27,7 +27,7 @@ Preface
 
 This book shows how to write beautiful, idiomatic Python code with simple, effective examples. There are no long explanations, but the intention is to **show** and **demonstrate** preferred ways of writing code in Python. As such, the intended audience is for intermediate Python programmers looking to improve ways to write and express their code in a readable way while still preserving computational efficiency and effectiveness. 
 
-Under each major section, you will see two sub-sections: `Don't Do This` and `Do This`. Code under `Don't Do This` are discouraged, and following the adjective of |JeffKnupp_Link| :cite:`JeKn19`, are harmful. Code under `Do This` are the encouraged, beautiful and idiomatic Pythonic way to write the code instead.
+Under each major section, you will see two sub-sections: `Don't Do This` and `Do This`. Code under `Don't Do This` are discouraged, and following the adjective of |JeffKnupp_Link| :cite:`JeKn19`, are harmful. Code under `Do This` are the encouraged, beautiful and idiomatic Pythonic way to write the code instead. All examples are geared for Python 3 (specifically, v3.7) and higher (though a lot of examples may work for Python 2).
 
 Ideas and code examples are borrowed from :cite:`RaHe19b,JeKn19,YaKh19`.
 
