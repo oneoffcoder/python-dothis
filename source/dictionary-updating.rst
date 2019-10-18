@@ -1,5 +1,5 @@
-Merging and updating dictionaries
----------------------------------
+Updating dictionaries
+---------------------
 
 .. highlight:: python
    :linenothreshold: 1

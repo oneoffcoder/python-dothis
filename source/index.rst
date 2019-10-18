@@ -55,6 +55,7 @@ Table of Contents
    dictionary-defaultdict
    dictionary-get
    dictionary-updating
+   dictionary-merging
    dictionary-counting
    dictionary-comprehension
    set-comprehension
