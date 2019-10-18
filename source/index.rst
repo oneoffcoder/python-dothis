@@ -67,6 +67,7 @@ Table of Contents
    function-clarification
    function-lambda
    function-generator
+   class-new-vs-old
    class-dunder
    class-enumeration
    data-map-filter-reduce
