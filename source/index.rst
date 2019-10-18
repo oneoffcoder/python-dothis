@@ -27,7 +27,9 @@ Preface
 
 This book shows how to write beautiful, idiomatic Python code with simple, effective examples. There are no long explanations, but the intention is to **show** and **demonstrate** preferred ways of writing code in Python. As such, the intended audience is for intermediate Python programmers looking to improve ways to write and express their code in a readable way while still preserving computational efficiency and effectiveness. 
 
-Under each major section, you will see two sub-sections: `Don't Do This` and `Do This`. Code under `Don't Do This` are discouraged, and following the adjective of |JeffKnupp_Link|, are harmful. Code under `Do This` are the encouraged, beautiful and idiomatic Pythonic way to write the code instead.
+Under each major section, you will see two sub-sections: `Don't Do This` and `Do This`. Code under `Don't Do This` are discouraged, and following the adjective of |JeffKnupp_Link| :cite:`JeKn19`, are harmful. Code under `Do This` are the encouraged, beautiful and idiomatic Pythonic way to write the code instead.
+
+Ideas and code examples are borrowed from :cite:`RaHe19b,JeKn19,YaKh19`.
 
 .. |JeffKnupp_Link| raw:: html
 
@@ -79,42 +81,11 @@ Table of Contents
    iter-product
    misc-simultaneous-state-updates
    misc-pandas
+   about
+   copyright
 
-One-Off Coder
-=============
+Bibliography
+============
 
-.. image:: images/logo.png
-   :alt: One-Off Coder logo.
-
-One-Off Coder is an educational, service and product company. Please visit us online to discover how we may help you achieve life-long success in your personal coding career or with your company's business goals and objectives.
-
-- |Website_Link|
-- |Facebook_Link|
-- |Twitter_Link|
-- |Instagram_Link|
-- |YouTube_Link|
-- |LinkedIn_Link|
-
-.. |Website_Link| raw:: html
-
-   <a href="https://www.oneoffcoder.com" target="_blank">Website</a>
-
-.. |Facebook_Link| raw:: html
-
-   <a href="https://www.facebook.com/One-Off-Coder-309817926496801/" target="_blank">Facebook</a>
-
-.. |Twitter_Link| raw:: html
-
-   <a href="https://twitter.com/oneoffcoder" target="_blank">Twitter</a>
-
-.. |Instagram_Link| raw:: html
-
-   <a href="https://www.instagram.com/oneoffcoder/" target="_blank">Instagram</a>
-
-.. |YouTube_Link| raw:: html
-
-   <a href="https://www.youtube.com/channel/UCCCv8Glpb2dq2mhUj5mcHCQ" target="_blank">YouTube</a>
-
-.. |LinkedIn_Link| raw:: html
-
-   <a href="https://www.linkedin.com/company/one-off-coder/" target="_blank">LinkedIn</a>
+.. bibliography:: references.bib
+   :style: alpha
