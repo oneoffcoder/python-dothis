@@ -1,6 +1,9 @@
 Filtering files
 ---------------
 
+.. highlight:: python
+   :linenothreshold: 1
+
 We are able to filter strings more concisely with fnmatch. Notice the second example uses a method, two for loops and an if statement?
 
 Don't do this

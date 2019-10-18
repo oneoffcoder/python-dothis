@@ -1,6 +1,9 @@
 Lambdas
 --------------------------------------
 
+.. highlight:: python
+   :linenothreshold: 1
+
 If you have one-liner functions, avoid using function declaration with def. Instead, use lambda.
 
 Don't do this

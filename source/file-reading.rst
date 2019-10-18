@@ -1,6 +1,9 @@
 Reading a file
 --------------
 
+.. highlight:: python
+   :linenothreshold: 1
+
 The key here is to use a context manager to manage resources.
 
 Don't do this

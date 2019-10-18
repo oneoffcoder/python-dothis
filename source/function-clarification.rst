@@ -1,6 +1,9 @@
 Clarify function calls with keyword arguments
 ---------------------------------------------
 
+.. highlight:: python
+   :linenothreshold: 1
+
 When passing in values/arguments to a method, try to associate the values with the argument names.
 
 Don't do this

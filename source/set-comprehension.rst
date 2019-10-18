@@ -1,6 +1,9 @@
 Set comprehension
 -----------------
 
+.. highlight:: python
+   :linenothreshold: 1
+
 Set comprehension avoids for loops.
 
 Don't do this

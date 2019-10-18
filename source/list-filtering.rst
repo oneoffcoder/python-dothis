@@ -1,6 +1,9 @@
 Filtering a list
 ----------------
 
+.. highlight:: python
+   :linenothreshold: 1
+
 Use a for comprehension to filter out values, not a for loop.
 
 Don't do this

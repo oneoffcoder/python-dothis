@@ -1,6 +1,9 @@
 Cycling through a list
 ----------------------
 
+.. highlight:: python
+   :linenothreshold: 1
+
 Here's how to cycle through a list of elements an arbitrary number of times.
 
 Don't do this

@@ -1,6 +1,9 @@
 Product of lists
 ----------------
 
+.. highlight:: python
+   :linenothreshold: 1
+
 Here's how to get the product of elements in multiple lists.
 
 Don't do this

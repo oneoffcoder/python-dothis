@@ -1,6 +1,9 @@
 Deleting a file
 ---------------
 
+.. highlight:: python
+   :linenothreshold: 1
+
 The key here is to avoid the try/except code and favor a context manager approach.
 
 Don't do this

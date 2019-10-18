@@ -1,6 +1,9 @@
 Pandas apply and numpy vectorization
 ------------------------------------
 
+.. highlight:: python
+   :linenothreshold: 1
+
 When operating over Pandas dataframes, avoid using for loops and favor the apply function and Numpy vectorization.
 
 Don't do this

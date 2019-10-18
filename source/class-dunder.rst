@@ -1,6 +1,9 @@
 Classes and dunders (double underscores)
 ----------------------------------------
 
+.. highlight:: python
+   :linenothreshold: 1
+
 Exploit dunders when doing object-oriented programming in Python. In particular, override the __str__ dunder to enable a printer friendly representation of the object.
 
 Don't do this

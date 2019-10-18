@@ -1,6 +1,9 @@
 Combinations of a list
 ----------------------
 
+.. highlight:: python
+   :linenothreshold: 1
+
 Create combinations from a list of items.
 
 Don't do this

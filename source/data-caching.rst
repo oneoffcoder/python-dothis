@@ -1,6 +1,9 @@
 Caching data and results
 ------------------------
 
+.. highlight:: python
+   :linenothreshold: 1
+
 The key here is to use the lru_cache decorator to cache results of functions that are idempotent, especially if they are expensive to call. Note how calls to add takes about 700 milliseconds? However, using the lru_cache decorator, subsequent calls are on the order of microseconds.
 
 Don't do this

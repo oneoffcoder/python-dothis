@@ -1,6 +1,9 @@
 String interpolation
 --------------------
 
+.. highlight:: python
+   :linenothreshold: 1
+
 Note how we have to substitute name in twice? If we used variable names inside the substitution place holders, we only have to pass it in once. Also, note the use of f-string and Template.
 
 Don't do this

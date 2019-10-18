@@ -1,6 +1,9 @@
 Looping over a collection
 -------------------------
 
+.. highlight:: python
+   :linenothreshold: 1
+
 Avoid using an index to access your elements in the array.
 
 Don't do this

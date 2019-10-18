@@ -1,6 +1,9 @@
 Ignoring unpacked values from a tuple
 -------------------------------------
 
+.. highlight:: python
+   :linenothreshold: 1
+
 Try not to create that extra variable declaration when unpacking tuples. Use the underscore `_` to ignore declaring a variable when unpacking a tuple.
 
 Don't do this

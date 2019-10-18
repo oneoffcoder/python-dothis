@@ -1,6 +1,9 @@
 Chained comparison operators
 ----------------------------
 
+.. highlight:: python
+   :linenothreshold: 1
+
 Some chained comparisons, like the one below, should be avoided. Notice the use of `and`?
 
 Don't do this

@@ -1,6 +1,9 @@
 Generator functions
 --------------------------------------
 
+.. highlight:: python
+   :linenothreshold: 1
+
 Avoid generating large number of values or objects as they may take up memory. Use yield inside a function to generate values or objects as needed. Functions generating collections using yield are more space efficient and faster.
 
 Don't do this

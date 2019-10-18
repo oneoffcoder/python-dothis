@@ -1,6 +1,9 @@
 Simultaneous state updates
 --------------------------
 
+.. highlight:: python
+   :linenothreshold: 1
+
 The key here is to make your code more concise and avoid nuisance variables. In the discouraged approach, you create temporary variables to avoid mutating x and y. In the encouraged approach, all mutations occur in one coherent line.
 
 Don't do this

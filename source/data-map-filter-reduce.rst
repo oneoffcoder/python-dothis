@@ -1,6 +1,9 @@
 Transforming data with map, filter, reduce
 ------------------------------------------
 
+.. highlight:: python
+   :linenothreshold: 1
+
 Favor `map`, `filter`, and `reduce` to transform data. Your code will be more concise and better understood, as well as faster.
 
 Don't do this

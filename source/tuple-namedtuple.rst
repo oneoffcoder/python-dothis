@@ -1,6 +1,9 @@
 Avoid accessing tuple elements by index
 ---------------------------------------
 
+.. highlight:: python
+   :linenothreshold: 1
+
 The key here is to avoid accessing tuples by indicies since those indicies are meaningless. Instead, use namedtuple and access elements of the tuple by a meaningful name.
 
 Don't do this

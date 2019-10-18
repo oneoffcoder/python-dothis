@@ -1,6 +1,9 @@
 Accessing a dictionary value with a default value
 -------------------------------------------------
 
+.. highlight:: python
+   :linenothreshold: 1
+
 Use the dictionary `.get` method with a supplied default value.
 
 Don't do this

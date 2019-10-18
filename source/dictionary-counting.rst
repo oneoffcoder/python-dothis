@@ -1,6 +1,9 @@
 Using a dictionary to store counts
 ----------------------------------
 
+.. highlight:: python
+   :linenothreshold: 1
+
 Like defaultdict, Counter initialize values associated with keys to 0. Note how we get rid of checking to see if a key entry exists?
 
 Don't do this

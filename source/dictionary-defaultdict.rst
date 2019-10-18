@@ -1,6 +1,9 @@
 Default dictionary values: defaultdict
 --------------------------------------
 
+.. highlight:: python
+   :linenothreshold: 1
+
 The key is to avoid checking to see if a key exists in the dictionary, and if not, then initialize its associated value. The use of defaultdict will initialize a value associated with a key that does not yet exists upon first access. Check out `itertools` too.
 
 Don't do this
