@@ -83,7 +83,7 @@ Table of Contents
 One-Off Coder
 =============
 
-.. figure:: images/logo.png
+.. image:: images/logo.png
    :alt: One-Off Coder logo.
 
 One-Off Coder is an educational, service and product company. Please visit us online to discover how we may help you achieve life-long success in your personal coding career or with your company's business goals and objectives.
