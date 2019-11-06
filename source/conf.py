@@ -57,6 +57,7 @@ html_show_sourcelink = False
 html_show_sphinx = False
 html_logo = '_static/images/logo-small.png'
 html_favicon = '_static/favicon.ico'
+html_last_updated_fmt = '%b %d, %Y, %X'
 
 html_theme_options = {
     'canonical_url': '',
