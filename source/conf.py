@@ -20,10 +20,7 @@
 project = 'Python: Do This, Not That!'
 copyright = '2019, One-Off Coder'
 author = 'One-Off Coder'
-
-# The short X.Y version
-version = ''
-# The full version, including alpha/beta/rc tags
+version = '0.0.1'
 release = '0.0.1'
 
 
@@ -56,6 +53,7 @@ html_theme = 'sphinx_rtd_theme'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
-
-html_favicon = '_static/favicon.ico'
 html_show_sourcelink = False
+html_show_sphinx = False
+html_logo = '_static/images/logo-small.png'
+html_favicon = '_static/favicon.ico'
