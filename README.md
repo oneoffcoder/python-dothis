@@ -6,6 +6,14 @@ This project is to show and demonstrate how to write beautiful, idiomatic Python
 
 # Building
 
+Install the dependencies first.
+
+```bash
+pip install sphinx sphinx_rtd_theme sphinxcontrib-bibtex
+```
+
+Build the HTML site.
+
 ```bash
 make html
 ```
