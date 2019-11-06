@@ -57,3 +57,19 @@ html_show_sourcelink = False
 html_show_sphinx = False
 html_logo = '_static/images/logo-small.png'
 html_favicon = '_static/favicon.ico'
+
+html_theme_options = {
+    'canonical_url': '',
+    'analytics_id': 'UA-150285674-1',  #  Provided by Google in your dashboard
+    'logo_only': False,
+    'display_version': True,
+    'prev_next_buttons_location': 'bottom',
+    'style_external_links': False,
+    'style_nav_header_background': '#2980B9',
+    # Toc options
+    'collapse_navigation': True,
+    'sticky_navigation': True,
+    'navigation_depth': 4,
+    'includehidden': True,
+    'titles_only': False
+}
