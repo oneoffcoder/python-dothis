@@ -1,4 +1,4 @@
-![One-Off Coder Logo](/source/images/logo.png "One-Off Coder")
+![One-Off Coder Logo](/source/_static/images/logo.png "One-Off Coder")
 
 # Intro
 
